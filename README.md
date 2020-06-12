@@ -22,6 +22,7 @@
 <p align="center">
   <a href="#information_source-o-que-%C3%A9-">O que é ?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##information_source-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -35,6 +36,24 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 -   [Bash][bash]
 -   [ElectronJS][electron]
+
+## :information_source: Como utilizar
+
+Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) instalado no seu computador,
+ou simplesmente baixe o aplicativo compactado [LINK](https://github.com/cogumm/AutoElectron/archive/master.zip)
+
+### Instalação
+
+```bash
+# 1. Clonando o repositório
+$ git clone https://github.com/cogumm/AutoElectron
+
+# 2. Acessando o diretório do projeto.
+$ cd AutoElectron/
+
+# 3. Rodando o projeto.
+$ sh setup.sh
+```
 
 ## 🤔 Como contribuir
 
